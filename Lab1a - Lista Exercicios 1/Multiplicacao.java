@@ -10,6 +10,7 @@ public class Multiplicacao{
         float resultado = mulComAdicao(num1, num2);
         System.out.println("Resultado: "+ resultado);
 
+        scanner.close();
     }
 
     static float mulComAdicao(float num1, int num2){
