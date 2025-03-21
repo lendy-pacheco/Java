@@ -1,3 +1,7 @@
+/*
+Lendy Naiara Carpio Pacheco - 10428525
+Victor Reis da Silva - 10420297
+*/
 import java.util.Scanner;
 
 public class OrdemInversa {
